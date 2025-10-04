@@ -22,8 +22,9 @@ The model is trained on a labeled dataset and deployed with **Gradio** for easy 
 ---
 
 ## 📂 Project Structure
-- `kidney_training.ipynb` → Jupyter/Colab notebook with model training + Gradio demo
-- `kidney_model.keras` → Saved model 
+- `kidney_training.ipynb` → Jupyter
+- `kidney_model.keras` → Saved model
+- `app.ipynb` →  Google Colab + Gradio for UI
 - `requirements.txt` → Required dependencies
 
 ---
